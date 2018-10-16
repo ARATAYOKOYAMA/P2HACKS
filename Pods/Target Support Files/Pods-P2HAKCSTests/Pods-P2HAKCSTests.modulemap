@@ -1,0 +1,6 @@
+framework module Pods_P2HAKCSTests {
+  umbrella header "Pods-P2HAKCSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
